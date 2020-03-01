@@ -1,3 +1,2 @@
 # hello-world
-hello world with git
-Estoy editando un branch 
+hello world with git 
